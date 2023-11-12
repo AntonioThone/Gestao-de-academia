@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+
+        {% block head %}
+            <title>Antonio Thone</title>
+        {% endblock %}
+
+            <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+                rel="stylesheet">
+            <link rel="stylesheet" href="styles.css">
+        <style>
+
+
+        </style>
+    </head>
+    <body>
+        <header>
+
+            <div class="links">
+                <a href="/">Sobre</a>
+                <a href="/portfolio">Aulas</a>
+            </div>
+        </header>
+
+        {% block content %}
+
+        {% endblock %}
+
+    </body>
+</html>
