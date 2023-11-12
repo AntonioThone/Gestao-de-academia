@@ -1,0 +1,26 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://www.google.com",
+      "name": "António Thone",
+      "birth": "2023-08-18",
+      "gender": "M",
+      "services": "crossfit, musculacao"
+    },
+    {
+      "avatar_url": "http://www.google.com",
+      "name": "António Thone",
+      "birth": "2023-08-10",
+      "gender": "M",
+      "services": "fgbnf"
+    },
+    {
+      "avatar_url": "http://www.google.com",
+      "name": "António Thone",
+      "birth": 1691625600000,
+      "gender": "M",
+      "services": "fitness",
+      "created_at": 1693409994474
+    }
+  ]
+}
